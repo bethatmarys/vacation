@@ -1,5 +1,6 @@
-.emphasis {
-  font-weight: bolder;
-  color: darkblue;
-
+.bolder {
+   font-weight: bolder;
+}
+.center {
+    text-align: center;
 }
